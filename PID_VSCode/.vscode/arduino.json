@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "sketch": "PID_VSCODE.ino",
+    "port": "COM4"
+}
